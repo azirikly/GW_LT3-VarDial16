@@ -1,0 +1,8 @@
+GW/LT3 DSL (varDial 2016 shared task)
+This directory contains the code for GW/LT3 systems for the following sumissions:
+1. Task1 closed submission
+2. Task2 open and closed submission (with and without external training data)
+3. tweets_conversion includes functions to buckwalter the Arabic text and to clean the tweets
+4. tweets_DA collect tweets based on country 
+5. test_B preprocessing contains the functions specific to testB (out-of-domain) released in the shared task 
+For more info about the system please consult the paper. 
